@@ -1,0 +1,5 @@
+code for paper titled: Sanmukh R. Kuppannagari, Rajgopal Kannan and Viktor K. Prasanna, NO-LESS: Near OptimaL CurtailmEnt Strategy Selection for Net Load Balancing in Micro Grids, The Ninth Conference on Innovative Smart Grid Technology (ISGT 2018), February 2018.
+
+Unfortunately, the dataset cannot be shared. Data set format is as follows
+
+A[M*N, T] - M - NUmber of DERs, N - Number of strategies per DER, T- time interval. strategy j for time t for DER i can be accessed using - A[N*(i-1) + j,t] (matlab is 1 indexed)
